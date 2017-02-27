@@ -1,0 +1,16 @@
+Thread-1 inició
+Thread-1 Terminó
+Thread-2 inició
+Thread-2 Terminó
+Thread-3 inició
+Thread-3 Terminó
+Thread-4 inició
+Thread-4 Terminó
+Thread-1 inició
+Thread-1 Terminó
+Thread-2 inició
+Thread-2 Terminó
+Thread-3 inició
+Thread-3 Terminó
+Thread-4 inició
+Thread-4 Terminó

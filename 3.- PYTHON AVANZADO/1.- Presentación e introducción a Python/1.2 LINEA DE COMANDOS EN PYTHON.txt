@@ -1,0 +1,4 @@
+c: python27 para entrar al directorio de python, ojo con la version 2.7
+c:\ python main.py //para ejecutar python
+c:\ python main.py  >> resultado.txt //para guardar los resulados en un archivo
+
